@@ -34,18 +34,18 @@
 백엔드
 |1주차|2주차|3주차|4주차|5주차|6주차|7주차|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|오리엔테이션 및 계획설립|[CRUD 실습](https://github.com/2023-HAEDAL-PROJECT/backend_study_week02)| | | | | |
+|오리엔테이션 및 계획설립|[CRUD 실습](https://github.com/2023-HAEDAL-PROJECT/backend_study_week02)|과제대체 |파일 업/다운로드 | | | |
 
 프론트엔드
 |1주차|2주차|3주차|4주차|5주차|6주차|7주차|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|오리엔테이션 및 계획설립| | | | | | |
+|[오리엔테이션 및 계획설립](https://github.com/KNU-HAEDAL/2023-fall-Project-bootcamp/tree/main/frontend/week01)|[리액트](https://github.com/KNU-HAEDAL/2023-fall-Project-bootcamp/tree/main/frontend/week02) |과제대체 | | | | |
 
 <br>
 
 ## 진행 상황
 - [x] 1주차: 9월 19일
-- [ ] 2주차:
+- [x] 2주차: 9월 26일
 - [ ] 3주차:
 - [ ] 4주차:
 - [ ] 5주차:
