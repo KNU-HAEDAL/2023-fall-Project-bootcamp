@@ -34,7 +34,7 @@
 백엔드
 |1주차|2주차|3주차|4주차|5주차|6주차|7주차|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|오리엔테이션 및 계획설립|[CRUD 실습](https://github.com/2023-HAEDAL-PROJECT/backend_study_week02)|과제대체 |[파일 업/다운로드](https://github.com/2023-HAEDAL-PROJECT/backend_study_week4) | [서버 배포](https://github.com/2023-HAEDAL-PROJECT/backend_study_week5) | [CORS에러](https://github.com/2023-HAEDAL-PROJECT/backend_study_week6)| |
+|오리엔테이션 및 계획설립|[CRUD 실습](https://github.com/2023-HAEDAL-PROJECT/backend_study_week02)|과제대체 |[파일 업/다운로드](https://github.com/2023-HAEDAL-PROJECT/backend_study_week4) | [서버 배포](https://github.com/2023-HAEDAL-PROJECT/backend_study_week5) | [CORS에러](https://github.com/2023-HAEDAL-PROJECT/backend_study_week6)| [로그인](https://github.com/2023-HAEDAL-PROJECT/backend_study_week7) |
 
 프론트엔드
 |1주차|2주차|3주차|4주차|5주차|6주차|7주차|
@@ -50,4 +50,4 @@
 - [x] 4주차: 10월 10일
 - [x] 5주차: 10월 31일
 - [x] 6주차: 11월 7일
-- [ ] 7주차:
+- [x] 7주차: 11월 21일
